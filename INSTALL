@@ -1,0 +1,4 @@
+The tools only support installation in /usr/local 
+
+
+sh ./install.sh /usr/local
